@@ -19,30 +19,36 @@
 ## CHAPTER 1 <a name = "chapter1"></a>
 
 ### Sententiae <a name = "1.1"></a>
-1.  Work calls to me
-2. If I err, then please you must advise me
-3. You must hasten slowly
-4. You praise me; they blame me
-5. We sin often
-6. What do we owe to think?
-7. You must all conserve me
-8. Rumour flies
-9. It does not love me
-10. Nothing scares me
-11. Apollo often serves me
-12. Hello - what do you see? We see nothing
-13. Often, you think of nothing
-14. If you give quickly, it is like giving twice
-15. If you are strong, I am strong
-16. Quid vides?
-17. Nihil darent
-18. me non laudate
-19. Saepe monet, si erro
-20. Si me amas, servo amobe te
+1. <details> <summary> Labor me vocat. </summary> <pre> Work calls to me. </pre> </details>
+2. <details> <summary> Mone me, amabo te si erro. </summary> <pre> If I err, then please you must advise me </pre> </details>
+3. <details> <summary> Festina lente </summary> <pre> You must hasten slowly </pre> </details>
+4. <details> <summary> Laudas me; cuplant me. </summary> <pre> You praise me; they blame me. </pre> </details>
+5. <details> <summary> Saepe peccamus. </summary> <pre> Often we sin. </pre> </details>
+6. <details> <summary> Quid debemus cogitare? </summary> <pre> What do we owe to think? </pre> </details>
+7. <details> <summary> Conservate me! </summary> <pre> You must all conserve me! </pre> </details>
+8. <details> <summary> Rumor volant. </summary> <pre> Rumour flies. </pre> </details>
+9. <details> <summary> me non amat. </summary> <pre> It does not love me. </pre> </details>
+10. <details> <summary> Nihil me terret. </summary> <pre> Nothing scares me. </pre> </details>
+11. <details> <summary> Apollo me saepa servat. </summary> <pre> Apollo often serves me. </pre> </details>
+12. <details> <summary> Salvete! - Quid videtis? Nihil videmus. </summary> <pre> Hello - what do you all see? We see nothing. </pre> </details>
+13. <details> <summary> Saepe nihil cogitas. </summary> <pre> Often, you think of nothing. </pre> </details>
+14. <details> <summary> Bis das, si cito das. </summary> <pre> If you give quickly, it is like giving twice. </pre> </details>
+15. <details> <summary> Si vales, valeo. </summary> <pre>  If you are strong, I am strong. </pre> </details>
+16. <details> <summary> What does he see? </summary> <pre> Quid vides? </pre> </details>
+17. <details> <summary> They are giving nothing. </summary> <pre> Nihil darent. </pre> </details>
+18. <details> <summary> You ought to not praise me. </summary> <pre> me non laudare debes. </pre> </details>
+19. <details> <summary> If I err, he often warns me. </summary> <pre> Si erro, me saepe monet. </pre> </details>
+20. <details> <summary> If you love me, save me please! </summary> <pre> Si me amas, serva amobe te! </pre> </details>
 
 ### The poet Horace contemplates an invitation <a name = "1.2"></a>
+<details>
+<summary>
+Maecenas et Vergilius me hodie vocant. Quid cogitare debeo? Quid debeo respondere? Si erro, me saepe monent et culpant; si non erro, me laudant. Quid hodie cogitare debeo?
+</summary>
+<pre>
 Maecenas and Vergil call out to me today. What must I think? What must I reply? If I err, often they advise and censure me; if I do not err, they praise me. What must I think today?
-
+</pre>
+</details>
 
 ## CHAPTER 2 <a name = "chapter2"></a>
 

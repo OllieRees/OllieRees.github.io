@@ -1,6 +1,24 @@
-# CHAPTER 1
+# Translations from Wheelock
 
-## Sententiae
+## Table of Contents
+1. [Chapter 1](#1)
+    1. [Sententiae](#1.1)
+    2. [The Poet Horace Contemplates an Invitation](#1.2)
+2. [Chapter 2](#chapter2)
+    1. [Sententiae Antiquae](#2.1)
+    2. [Catullus bids his Girlfriend Farewell](#2.2)
+3. [Chapter 3](#chapter3)
+    1. [Practice and Review](#3.1)
+    2. [Sententiae Antiquae](#3.2)
+    3. [The Grass is always Greener](#3.3)
+4. [Chapter 4](#chapter4)
+    1. [Practice and Review](#4.1)
+    2. [Sententiae Antiquae](#4.2)
+    3. [The Rarity of Friendship](#4.3)
+
+## CHAPTER 1 <a name = "chapter1"></a>
+
+### Sententiae <a name = "1.1"></a>
 1.  Work calls to me
 2. If I err, then please you must advise me
 3. You must hasten slowly
@@ -22,13 +40,13 @@
 19. Saepe monet, si erro
 20. Si me amas, servo amobe te
 
-## The poet Horace contemplates an invitation
+### The poet Horace contemplates an invitation <a name = "1.2"></a>
 Maecenas and Vergil call out to me today. What must I think? What must I reply? If I err, often they advise and censure me; if I do not err, they praise me. What must I think today?
 
 
-# CHAPTER 2
+## CHAPTER 2 <a name = "chapter2"></a>
 
-## Sententiae antiquae
+### Sententiae antiquae <a name = "2.1"></a>
 1. O motherland, hello!
 2. Fame and sentiment move quickly
 3. Please, you must give a favour/pardon to the girl
@@ -50,12 +68,12 @@ Maecenas and Vergil call out to me today. What must I think? What must I reply? 
 19. Saepe poena irae videmus
 20. Antiqua porta est magna
 
-## Catullus bids his girlfriend farwell
+### Catullus bids his Girlfriend Farewell <a name = "2.2"></a>
 My girl does not love me. You must be strong, girl! Catallus is firm: the poet does not love the girl; he does not praise the form of the girl; he does not give roses to the girl, et he does not kiss the girl! My anger is great! I am tough, my girl - but without you, I am not strong.
 
-# Chapter 3
+## Chapter 3 <a name = "chapter3"></a>
 
-## Practice and Review
+### Practice and Review <a name = "3.1"></a>
 1. We saw the Roman sailor's Boy in the fields
 2. Today, they summon the girls to the boy
 3. O, My girl always praises the wisdom of friends!
@@ -68,7 +86,7 @@ My girl does not love me. You must be strong, girl! Catallus is firm: the poet d
 10. Mea amice, magnam fortunam vitis fillarum videmus
 11. Semper meis fillabus et fillis rosas dat
 
-## Sententiae Antiquae
+### Sententiae Antiquae <a name = "3.2"></a>
 1. Friends, you must think of the Roman people.
 2. Macenas, friend, has Augustus, amongst my number of friends.
 3. My little book advises both my feeling and the the life of men.
@@ -81,13 +99,13 @@ My girl does not love me. You must be strong, girl! Catallus is firm: the poet d
 10. You must secretly advise friends; you must openly praise friends.
 11. We must observe moderation
 
-## The Grass is always Greener
+### The Grass is always Greener <a name = "3.3"></a>
 Farmers often praise both the life and fortune of the sailor; the sailor often praises the great fortune and life of the poet; and the poet praises the life and fields of the farmer.
 Without philosophy, avaricious men always thinks about money: he has much money, but much money can't satisfy the man of avarice.
 
-# Chapter 4
+## Chapter 4 <a name = "chapter4"></a>
 
-## Practice and Review
+### Practice and Review <a name = "4.1"></a>
 1. Pleasure is good, but pleasure of many things is small
 2. Wars are bad and they have many dangers
 3. Today, duty calls the sailor away from leisure
@@ -101,7 +119,7 @@ Without philosophy, avaricious men always thinks about money: he has much money,
 11. Fillae et filii virorum magnorum et feminarum magnarum semper non sunt magnos
 12. Fortuna magna nautarum nihil est sine consilio, et poenas sunt dare
 
-## Sententiae Antiquae
+### Sententiae Antiquae <a name = "4.2"></a>
 1. Fortune is blind
 2. If the dangers are true, you are unfortunate
 3. Hello, o friend! you are a good man.
@@ -117,6 +135,6 @@ Without philosophy, avaricious men always thinks about money: he has much money,
 13. Duty calls to me
 14. Bad men amongst us think of the destruction of good men. You all must aid good men; conserve the Roman people.
 
-## The Rarity of Friendship
+### The Rarity of Friendship <a name = "4.3"></a>
 Few men have true friends, et few men are worthy. True friendshup est splendid, et all friendship is remarkable.
 Many foolish men always think of money, few men think about friends; but they err: we are able to be strong without much coin, but without friendship we are not strong, and life is nothing.

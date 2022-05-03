@@ -42,15 +42,18 @@
 
 ### The poet Horace contemplates an invitation <a name = "1.2"></a>
 <details>
-<summary>
-Maecenas et Vergilius me hodie vocant. Quid cogitare debeo? Quid debeo respondere? Si erro, me saepe monent et culpant; si non erro, me laudant. Quid hodie cogitare debeo?
-</summary>
-<pre>
-Maecenas and Vergil call out to me today. 
-What must I think? What must I reply?
-If I err, often they advise and censure me; if I do not err, they praise me. 
-What must I think today?
-</pre>
+    <summary>
+        Maecenas et Vergilius me hodie vocant. 
+        Quid cogitare debeo? Quid debeo respondere? 
+        Si erro, me saepe monent et culpant; si non erro, me laudant. 
+        Quid hodie cogitare debeo?
+    </summary>
+    <pre>
+        Maecenas and Vergil call out to me today. 
+        What must I think? What must I reply?
+        If I err, often they advise and censure me; if I do not err, they praise me. 
+        What must I think today?
+    </pre>
 </details>
 
 ## CHAPTER 2 <a name = "chapter2"></a>
@@ -78,15 +81,15 @@ What must I think today?
 20. <details> <summary> The ancient gate is large. </summary> <pre> Antiqua porta est magna. </pre> </details>
 
 ### Catullus bids his Girlfriend Farewell <a name = "2.2"></a>
-<display>
+<details>
     <summary>
-        Puella mea me non amat. Vale, puella! 
-        Catullus obdurat: poeta puellam non amat, formam puellae non laudat, puellae rosas non dat, et puellam non basiat! 
-        Ira mea est magna! Obduro, mea puella - sed sine te non valeo
+    Puella mea me non amat. Vale, puella! 
+    Catullus obdurat: poeta puellam non amat, formam puellae non laudat, puellae rosas non dat, et puellam non basiat! 
+    Ira mea est magna! Obduro, mea puella - sed sine te non valeo
     </summary>
     <pre>
-        My girl does not love me. You must be strong, girl! C
-        atallus is firm: the poet does not love the girl; he does not praise the form of the girl; he does not give roses to the girl, and he does not kiss the girl! 
+        My girl does not love me. farwell, girl! 
+        Catallus is firm: the poet does not love the girl; he does not praise the form of the girl; he does not give roses to the girl, and he does not kiss the girl! 
         My anger is great! I am tough, my girl - but without you, I am not strong.
     </pre>
 </details>
@@ -119,7 +122,7 @@ What must I think today?
 11. <details> <summary> Modum tenere debemus. </summary> <pre> We ought to observe moderation. </pre> </details>
 
 ### The Grass is always Greener <a name = "3.3"></a>
-<display>
+<details>
     <summary>
         Agricola et vitam et fortunam nautae saepe laudat; nauta magnam fortunam et vitam poetae saepc laudat; et poeta vitam et agros aglicolae laudat.
         Sine philosophia avari viri de pecumia semper cogitant: multam pecuniam habent, sed peclinia muUa virum avarum non satiat.
@@ -128,7 +131,7 @@ What must I think today?
         Farmers often praise both the life and fortune of the sailor; the sailor often praises the great fortune and life of the poet; and the poet praises the life and fields of the farmer.
         Without philosophy, avaricious men always thinks about money: he has much money, but much money can't satisfy the man of avarice.
     </pre>
-</display>
+</details>
 
 ## Chapter 4 <a name = "chapter4"></a>
 

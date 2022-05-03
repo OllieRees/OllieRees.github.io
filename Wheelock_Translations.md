@@ -93,7 +93,7 @@
     Ira mea est magna! Obduro, mea puella - sed sine te non valeo
     </summary>
     <pre>
-        My girl does not love me. farwell, girl! 
+        My girl does not love me. farewell, girl! 
         Catallus is firm: the poet does not love the girl; he does not praise the form of the girl; he does not give roses to the girl, and he does not kiss the girl! 
         My anger is great! I am tough, my girl - but without you, I am not strong.
     </pre>

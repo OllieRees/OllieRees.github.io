@@ -36,7 +36,7 @@
 10. <details> <summary> Nihil me terret. </summary> <pre> Nothing scares me. </pre> </details>
 11. <details> <summary> Apollo me saepe servat. </summary> <pre> Apollo often guards me. </pre> </details>
 12. <details> <summary> Salvete! - Quid videtis? Nihil videmus. </summary> <pre> Hello - what do you all see? We see nothing. </pre> </details>
-13. <details> <summary> Saepe nihil cogitas. </summary> <pre> Often you think of nothing. </pre> </details>
+13. <details> <summary> Saepe nihil cogitas. </summary> <pre> Often you think nothing. </pre> </details>
 14. <details> <summary> Bis das, si cito das. </summary> <pre> If you give quickly, you give twice. </pre> </details>
 15. <details> <summary> Si vales, valeo. </summary> <pre>  If you are strong, I am strong. </pre> </details>
 16. <details> <summary> What does he see? </summary> <pre> Quid videt? </pre> </details>

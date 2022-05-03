@@ -93,11 +93,12 @@
         My anger is great! I am tough, my girl - but without you, I am not strong.
     </pre>
 </details>
+
 ## Chapter 3 <a name = "chapter3"></a>
 
 ### Practice and Review <a name = "3.1"></a>
 1. <details> <summary> Fillium nautae Romani in agris videmus.  </summary> <pre> We saw the Roman sailor's Boy in the fields. </pre> </details>
-2. <details> <summary> Pueri puallas hodie vocant </summary> <pre> Today, they summon the girls to the boy. </pre> </details>
+2. <details> <summary> Pueri puellas hodie vocant </summary> <pre> Today, they summon the girls to the boy. </pre> </details>
 3. <details> <summary> Sepientiam amicarum, O mea filia semper laudat. </summary> <pre> O, My daughter always praises the wisdom of friends. </pre> </details>
 4. <details> <summary> Multi viri et feminae philosophiam antiquam conservant. </summary> <pre> Many men and women conserve the old ways. </pre> </details>
 5. <details> <summary> Si irae valet, O mi filli, saepe erramus et peonas damus.  </summary> <pre> If anger strengthens, O my sons, often we err and give punishments. </pre> </details>
@@ -136,35 +137,43 @@
 ## Chapter 4 <a name = "chapter4"></a>
 
 ### Practice and Review <a name = "4.1"></a>
-1. <details> <summary> x </summary> <pre> Pleasure is good, but pleasure of many things is small. </pre> </details>
-2. <details> <summary> x </summary> <pre> Wars are bad and they have many dangers. </pre> </details>
-3. <details> <summary> x </summary> <pre> Today, duty calls the sailor away from leisure. </pre> </details>
-4. <details> <summary> x </summary> <pre> Few avarice men notice the many forms of danger in money. </pre> </details>
-5. <details> <summary> x </summary> <pre> If you [all] have a lot of money, often you are not without care. </pre> </details>
-6. <details> <summary> x </summary> <pre> The girls advise the teacher, without delay, about the bad judgement. </pre> </details>
-7. <details> <summary> x </summary> <pre> O great poet, we are true friends; aid me, please! </pre> </details>
-8. <details> <summary> x </summary> <pre> Wife of the farmer, see the gate. </pre> </details>
-9. <details> <summary> x </summary> <pre> In perciuli magni es. </pre> </details>
-10. <details> <summary> x </summary> <pre> Consilia mei filii seape stulta sunt. </pre> </details>
-11. <details> <summary> x </summary> <pre> Fillae et filii virorum magnorum et feminarum magnarum semper non sunt magnos. </pre> </details>
-12. <details> <summary> x </summary> <pre> Fortuna magna nautarum nihil est sine consilio, et poenas sunt dare. </pre> </details>
+1. <details> <summary> Otium est bonum, sed otium multorum est parvum. </summary> <pre> Pleasure is good, but pleasure of many things is small. </pre> </details>
+2. <details> <summary> Bella est mala et multa pericula habent. </summary> <pre> Wars are bad and they have many dangers. </pre> </details>
+3. <details> <summary> Officium nautam de otium hodie vocat. </summary> <pre> Today, duty calls the sailor away from leisure. </pre> </details>
+4. <details> <summary> Pauci viri avari multas formas perciulorum in pecunia vident. </summary> <pre> Few avarice men notice the many forms of danger in money. </pre> </details>
+5. <details> <summary> Si multam pecuniam habent, saepe non estis sine curis. </summary> <pre> If you [all] have a lot of money, often you all aren't without cares. </pre> </details>
+6. <details> <summary> Puellae magistram de consilio malo sine mora monent. </summary> <pre> The girls advise the [female] teacher, without delay, about the bad judgement. </pre> </details>
+7. <details> <summary> O poeta magna, amici veri sumus; me iuva, amobe te! </summary> <pre> O great poet, we are true friends; aid me, please! </pre> </details>
+8. <details> <summary> Femina agricolae, portam videt. </summary> <pre> Wife of the farmer, see the gate. </pre> </details>
+9. <details> <summary> You are in great danger. </summary> <pre> In perciuli magni es. </pre> </details>
+10. <details> <summary> My son's opinions are often foolish. </summary> <pre> Consilia mei filii seape stulta sunt. </pre> </details>
+11. <details> <summary> Girls and boys of great men and women are not always great. </summary> <pre> Fillae et filii virorum magnorum et feminarum magnarum non semper sunt magnos. </pre> </details>
+12. <details> <summary> Without wisdom, the sailors' great fortune is nothing, and they are paying they penalty. </summary> <pre> Fortuna magna nautarum nihil est sine consilio, et poenas sunt dare. </pre> </details>
 
 ### Sententiae Antiquae <a name = "4.2"></a>
-1. <details> <summary> x </summary> <pre> Fortune is blind. </pre> </details>
-2. <details> <summary> x </summary> <pre> If the dangers are true, you are unfortunate. </pre> </details>
-3. <details> <summary> x </summary> <pre> Hello, o friend! you are a good man. </pre> </details>
-4. <details> <summary> x </summary> <pre> The fame of your son is not charming. </pre> </details>
-5. <details> <summary> x </summary> <pre> To err is to be a human. </pre> </details>
-6. <details> <summary> x </summary> <pre> Nothing is wholly a happy ting. </pre> </details>
-7. <details> <summary> x </summary> <pre> The remedy of anger is delay. </pre> </details>
-8. <details> <summary> x </summary> <pre> Good Daphnis, my friend, pleasure and the life of the farmer it likes. </pre> </details>
-9. <details> <summary> x </summary> <pre> The teachers often give gifts and cookies to the small boys. </pre> </details>
-10. <details> <summary> x </summary> <pre> I love my friends more than my eyes. </pre> </details>
-11. <details> <summary> x </summary> <pre> Hello, my beautiful girl - you must give to me many kisses, please. </pre> </details>
-12. <details> <summary> x </summary> <pre> Infinite is a number of foolishness. </pre> </details>
-13. <details> <summary> x </summary> <pre> Duty calls to me. </pre> </details>
-14. <details> <summary> x </summary> <pre> Bad men amongst us think of the destruction of good men. You all must aid good men; conserve the Roman people. </pre> </details>
+1. <details> <summary> Fortuna est caeca. </summary> <pre> Fortune is blind. </pre> </details>
+2. <details> <summary> Si pericula sunt vera, infortunatus es. </summary> <pre> If the dangers are true, you are unfortunate. </pre> </details>
+3. <details> <summary> Salve, O amice; vir bonus es. </summary> <pre> Hello friend! you are a good man. </pre> </details>
+4. <details> <summary> Non bella est fama filii tui. </summary> <pre> The fame of your son is not charming. </pre> </details>
+5. <details> <summary> Errare est humanum. </summary> <pre> To err is to be a human. </pre> </details>
+6. <details> <summary> Nihil est omnino beatum. </summary> <pre> Nothing is wholly a happy thing. </pre> </details>
+7. <details> <summary> Remedium irae est mora. </summary> <pre> The remedy of anger is delay. </pre> </details>
+8. <details> <summary> Bonus Daphnis, amicus meus, otium et vitam agricolae amat. </summary> <pre> Good Daphnis, my friend, pleasure and the life of the farmer it likes. </pre> </details>
+9. <details> <summary> Magistri parvis pueris crustula et dona saepe dant. </summary> <pre> The teachers often give gifts and cookies to the small boys. </pre> </details>
+10. <details> <summary> Amicam meam magis quam oculos meos amo. </summary> <pre> I love my friends more than my eyes. </pre> </details>
+11. <details> <summary> Salve, mea bella puella - da mihi multa basia, amobe te! </summary> <pre> Hello, my beautiful girl - you must give to me many kisses, please! </pre> </details>
+12. <details> <summary> Infinitus numerus stultorum est. </summary> <pre> Infinity is a number of foolishness. </pre> </details>
+13. <details> <summary> Officium me vocat. </summary> <pre> Duty calls to me. </pre> </details>
+14. <details> <summary> Mali sunt in nostro numero et de exito bonorum virorum cogitant. </summary> <pre> Bad men amongst us think of the destruction of good men. You all must aid good men; conserve the Roman people. </pre> </details>
 
 ### The Rarity of Friendship <a name = "4.3"></a>
-Few men have true friends, et few men are worthy. True friendshup est splendid, et all friendship is remarkable.
-Many foolish men always think of money, few men think about friends; but they err: we are able to be strong without much coin, but without friendship we are not strong, and life is nothing.
+<details>
+    <summary>
+        Pauci viri veros amicos habent, et pauci sunt digni. Amicitia vera est praeclara, et omnia praeclara sunt rara. 
+        Multi viri stulti de pecunia semper cogitant, pauci de amicis; sed errant: possumus valere sine multa pecunia, sed sine amicitia non valemus et vita est nihil.
+    </summary>
+    <pre>
+        Few men have true friends, and few men are worthy. True friendship is splendid, and all remarkable things are rare.
+        Many foolish men always think of money, few men think about friends; but they err: we are able to be strong without a lot of wealth, but without friendship we are not strong and life is nothing.
+    </pre>
+</details>

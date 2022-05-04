@@ -119,7 +119,7 @@
 2. <details> <summary> Macenas, amicus Augusti, me in numero amicorum habet. </summary> <pre> Macenas, friend of Augustus, counts me in a number of friends. </pre> </details>
 3. <details> <summary> Libellus meus et sententiae meae vitas virorum monent. </summary> <pre> My little book and my sentiments advise men's lives. </pre> </details>
 4. <details> <summary> Pauci viri sapientiae student. </summary> <pre> Few men are eager for wisdom. </pre> </details>
-5. <details> <summary> Fortuna adversa virum sententiae magnae non terret. </summary> <pre> Adverse fortune doesn't scare the man of great sentiment </pre> </details>
+5. <details> <summary> Fortuna adversa virum sapientiae magnae non terret. </summary> <pre> Adverse fortune doesn't scare the man of great wisdom </pre> </details>
 6. <details> <summary> Cimon, vir magnae famae, magnam benevolentiam habet </summary> <pre> Cimon, a man of great fame, has great benevelonece. </pre> </details>
 7. <details> <summary> Semper avaratus eget. </summary> <pre> Avarice is always in need. </pre> </details>
 8. <details> <summary> Nulla copia pecuniae avarum virum satiat.  </summary> <pre> Nothing abundant satisfies the rich avaricious man. </pre> </details>

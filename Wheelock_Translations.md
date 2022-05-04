@@ -130,12 +130,12 @@
 ### The Grass is always Greener <a name = "3.3"></a>
 <details>
     <summary>
-        Agricola et vitam et fortunam nautae saepe laudat; nauta magnam fortunam et vitam poetae saepc laudat; et poeta vitam et agros aglicolae laudat.
-        Sine philosophia avari viri de pecumia semper cogitant: multam pecuniam habent, sed peclinia muUa virum avarum non satiat.
+        Agricola et vitam et fortunam nautae saepe laudat; nauta magnam fortunam et vitam poetae saepe laudat; et poeta vitam et agros agricolae laudat.
+        Sine philosophia avari viri de pecunia semper cogitant: multam pecuniam habent, sed pecunia multa virum avarum non satiat.
     </summary>
     <pre>
         Farmers often praise both the life and fortune of the sailor; the sailor often praises the great fortune and life of the poet; and the poet praises the life and fields of the farmer.
-        Without philosophy, avaricious men always thinks about money: he has much money, but much money can't satisfy the man of avarice.
+        Without philosophy, avaricious men always thinks about money: they have much money, but much money can't satisfy the avaricious man.
     </pre>
 </details>
 

@@ -197,4 +197,5 @@
 11. <details> <summary> Poeta amicae multas rosas, dona pulchra, et basia dabat. </summary> <pre> The poet was giving many roses, beautiful gifts and kisses to the friend. </pre> </details>
 12. <details> <summary> Will war and destruction always remain in our land?  </summary> <pre>  Semperne remanebit bellum et exitium tuam patriam? </pre> </details>
 13. <details> <summary> Does money satisfy the greedy man?  </summary> <pre> Pecuniane avarum virum satit? </pre> </details>
-14. <details> <summary> Therefore, you will save the reputation of our foolish boys.  </summary> <pre> Ignitus, fama nostrorum peurorum stultorum servabis. </pre> </details>
+14. <details> <summary> Therefore, you will save the reputation of our foolish boys.  </summary> <pre> Ignitus, famam nostrorum peurorum stultorum servabis. </pre> </details>
+15.  <details> <summary> Money and glory were conquering the soul of a good man. </summary> <pre>  Pecunia et gloria animum viro magno vicebat. </pre> </details>

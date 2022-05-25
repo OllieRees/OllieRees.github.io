@@ -186,16 +186,31 @@
 ### Practice and Review <a name = "5.1"></a>
 1. <details> <summary> Officium liberos viros semper vocabat. </summary> <pre> Duty was always calling to the free men. </pre> </details>
 2. <details> <summary> Habebimusne multos viros et feminas mangorum animorum? </summary> <pre> Will we have many men and women of great souls? </pre> </details>
-3. <details> <summary> Pericula belli non sunt parva, sed patria tua te vocabit et agricolae adiuvabunt. </summary> <pre> War's dangers are not small, but your nation will call out to you and the farmers will aid.  </pre> </details>
-4. <details> <summary> Propter culpas malorum patria nostra non valebit. </summary> <pre> Our nation will not be strong because of the faults of bad things. </pre> </details>
-5. <details> <summary> Mora animos nostros superabat et remedium non habebamus. </summary> <pre> Delay wasn't above our friends, and we didn't have a remedy. </pre> </details>
+3. <details> <summary> Pericula belli non sunt parva, sed patria tua te vocabit et agricolae adiuvabunt. </summary> <pre> War's dangers are not small, but your nation will call out to you and the farmers will help.  </pre> </details>
+4. <details> <summary> Propter culpas malorum patria nostra non valebit. </summary> <pre> Because of the faults of bad people [or things], our nation will not be strong. </pre> </details>
+5. <details> <summary> Mora animos nostros superabat et remedium non habebamus. </summary> <pre> Delay was above our souls, and we didn't have a remedy. </pre> </details>
 6. <details> <summary> Multi in agris heri manebant et Romanos iuvabant. </summary> <pre> Many men were remaining in the fields yesterday and the Roman people were helping.  </pre> </details>
-7. <details> <summary> Pauci veri de cura animi cogitabant. </summary> <pre> Few men were thinking about the care of a friend. </pre> </details>
-8. <details> <summary> Propter iram in culpa estis et cras poenas dabitis. </summary> <pre> Because of the anger you all are at fault, and you will all pay the penalty. </pre> </details>
+7. <details> <summary> Pauci veri de cura animi cogitabant. </summary> <pre> Few men were thinking about the care of the soul. </pre> </details>
+8. <details> <summary> Propter iram in culpa estis et cras poenas dabitis. </summary> <pre> Because of the anger you [pl.] are at fault, and tomorrow you [pl.] will pay the penalty. </pre> </details>
 9. <details> <summary> Verum otium non habes, vir stulte! </summary> <pre> You do not have true pleasure, foolish man! </pre> </details>
-10. <details> <summary> Nihil est sine culpa; sumus boni, si paucas habemus. </summary> <pre> Nothing is without fault; we are all good men if we have few women. </pre> </details>
+10. <details> <summary> Nihil est sine culpa; sumus boni, si paucas habemus. </summary> <pre> Nothing is without fault; we are good men if we have few women. </pre> </details>
 11. <details> <summary> Poeta amicae multas rosas, dona pulchra, et basia dabat. </summary> <pre> The poet was giving many roses, beautiful gifts and kisses to the friend. </pre> </details>
-12. <details> <summary> Will war and destruction always remain in our land?  </summary> <pre>  Semperne remanebit bellum et exitium tuam patriam? </pre> </details>
+12. <details> <summary> Will war and destruction always remain in our land?  </summary> <pre>  Semperne remanebit bellum et exitium in nostra patria? </pre> </details>
 13. <details> <summary> Does money satisfy the greedy man?  </summary> <pre> Pecuniane avarum virum satit? </pre> </details>
-14. <details> <summary> Therefore, you will save the reputation of our foolish boys.  </summary> <pre> Ignitus, famam nostrorum peurorum stultorum servabis. </pre> </details>
-15.  <details> <summary> Money and glory were conquering the soul of a good man. </summary> <pre>  Pecunia et gloria animum viro magno vicebat. </pre> </details>
+14. <details> <summary> Therefore, you will save the reputation of our foolish boys.  </summary> <pre> Igitur, famam nostrorum peurorum stultorum servabis. </pre> </details>
+15.  <details> <summary> Money and glory were conquering the soul of a good man. </summary> <pre>  Pecunia et gloria animum viri magni superabatis. </pre> </details>
+
+### Sententiae Antiquae <a name = "5.2"></a>
+1. <details>  <summary> Invidiam populi Romani cras non sustinebis. </summary> <pre> Tomorrow, you will not sustain dislike of the Roman people. </pre> </details>
+2. <details> <summary> Periculumne igitur cras remanebat </summary> <pre> Does the danger from yesterday remain? </pre> </details>
+3. <details> <summary> Angustus animus pecuniam amat. </summary> <pre> The narrow soul loves money.  </pre>  </details>
+4. <details> <summary> Supera animos et iram tuam. </summary> <pre> Be above souls and your anger. </pre> </details>
+5. <details> <summary> Culpa est mea, O amici! </summary> <pre> The fault is mine, O friends! </pre> </details>
+6. <details> <summary> Da veniam filio et filiabus nostris. </summary> <pre> Give pardon to our son and daughters. </pre> </details>
+7. <details> <summary> Propter adulescentiam, mei fili, mala vitae non videbatis. </summary> <pre> Because of youth, my son was not noticing the evils of life. </pre> </details>
+8. <details> <summary> Amabo te, cura filiam meam. </summary> <pre> Please, take care of my girl. </pre> </details>
+9. <details> <summary> Vita humana est supplicium.  </summary> <pre> Human life is punishment. </pre> </details>
+10. <details> <summary> Satisne sanus es?  </summary> <pre> Are you sufficiently sane? </pre> </details>
+11. <details> <summary> Si quando satis pecuniae habebo, tum me consilio et philosophiae dabo. </summary> <pre> If ever I have enough money, I will give myself to your wisdom and philosophy. </pre> </details>
+12. <details> <summary> Semper gloria et fama tua manebunt. </summary> <pre> Your glory and fame will always remain. </pre> </details>
+13. <details> <summary> Vir bonus et peritus aspera verba poetarum culpabit. </summary> <pre> Good and skillful men will fault the harsh words of the poet. </pre> </details>

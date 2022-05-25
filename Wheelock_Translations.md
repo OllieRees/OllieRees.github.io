@@ -219,7 +219,8 @@
 13. <details> <summary> Vir bonus et peritus aspera verba poetarum culpabit. </summary> <pre> Good and skillful men will fault the harsh words of the poet. </pre> </details>
 
 ### His Only Guest was a Real Boar! <a name = "5.3"></a>
- <details> <summary> Non cenat sine apro noster, Tite, Caecilianus: bellum convivam Caecilianus habet! </summary> <pre> Our Caecilianus does not dine without a boar, Tite: Caecilianus has a beautiful dinner-guest. </pre> </details>
+ <details> <summary> Non cenat sine apro noster, Tite, Caecilianus: bellum convivam Caecilianus habet! </summary> <pre> Our Caecilianus does not dine without a boar, Tite: Caecilianus has a beautiful dinner-guest. </pre> </details> 
+
 
  ### Thermopylae: A Soldier's Humour <a name = "5.4"></a>
  <details>

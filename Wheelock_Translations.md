@@ -17,6 +17,9 @@
     3. [The Rarity of Friendship](#4.3)
 5.  [Chapter 5](#chapter5)
     1. [Practice and Review](#5.1)
+    2. [Sententiae Antiquae](#5.2)
+    3. [His Only Guest was a Real Boar!](#5.3)
+    4. [Thermopylae: A Soldier's Humour](#5.4)
 
 
 ## CHAPTER 1 <a name = "chapter1"></a>
@@ -201,7 +204,7 @@
 15.  <details> <summary> Money and glory were conquering the soul of a good man. </summary> <pre>  Pecunia et gloria animum viri magni superabatis. </pre> </details>
 
 ### Sententiae Antiquae <a name = "5.2"></a>
-1. <details>  <summary> Invidiam populi Romani cras non sustinebis. </summary> <pre> Tomorrow, you will not sustain dislike of the Roman people. </pre> </details>
+1. <details> <summary> Invidiam populi Romani cras non sustinebis. </summary> <pre> Tomorrow, you will not sustain dislike of the Roman people. </pre> </details>
 2. <details> <summary> Periculumne igitur cras remanebat </summary> <pre> Does the danger from yesterday remain? </pre> </details>
 3. <details> <summary> Angustus animus pecuniam amat. </summary> <pre> The narrow soul loves money.  </pre>  </details>
 4. <details> <summary> Supera animos et iram tuam. </summary> <pre> Be above souls and your anger. </pre> </details>
@@ -211,6 +214,23 @@
 8. <details> <summary> Amabo te, cura filiam meam. </summary> <pre> Please, take care of my girl. </pre> </details>
 9. <details> <summary> Vita humana est supplicium.  </summary> <pre> Human life is punishment. </pre> </details>
 10. <details> <summary> Satisne sanus es?  </summary> <pre> Are you sufficiently sane? </pre> </details>
-11. <details> <summary> Si quando satis pecuniae habebo, tum me consilio et philosophiae dabo. </summary> <pre> If ever I have enough money, I will give myself to your wisdom and philosophy. </pre> </details>
+11. <details> <summary> Si quando satis pecuniae habebo, tum me consilio et philosophiae dabo. </summary> <pre> If ever I have enough money, then I will give myself to wisdom and philosophy. </pre> </details>
 12. <details> <summary> Semper gloria et fama tua manebunt. </summary> <pre> Your glory and fame will always remain. </pre> </details>
 13. <details> <summary> Vir bonus et peritus aspera verba poetarum culpabit. </summary> <pre> Good and skillful men will fault the harsh words of the poet. </pre> </details>
+
+### His Only Guest was a Real Boar! <a name = "5.3"></a>
+ <details> <summary> Non cenat sine apro noster, Tite, Caecilianus: bellum convivam Caecilianus habet! </summary> <pre> Our Caecilianus does not dine without a boar, Tite: Caecilianus has a beautiful dinner-guest. </pre> </details>
+
+ ### Thermopylae: A Soldier's Humour <a name = "5.4"></a>
+ <details>
+    <summary>
+        "Exercitus noster est magnus," Persicus inquit, "et propter numerum sagittarum nostrarum caelum non videbitis!"  
+        Tum Lacedaemonius respondet: "In umbra, igitur, pugnabimus!"
+        Et Leonidas, rex Lacedaemoniorum, exclamat: "Pugnate cum animis, Lacedaemonii; hodie apud inferos fortasse cenabimus!" 
+    </summary>
+    <pre>
+        "Our army is great," The Persian says, "and you will not see the sky, because of the numerousness  of our arrows!"
+        Then the Spartan responds: "We will therefore fight in the shade!"
+        And Leonidas, King of the Spartans, exclaims: Fight with spirits, Spartans; today, we will dine amongst the dead! 
+    </pre>
+</details>

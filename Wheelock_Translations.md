@@ -20,7 +20,11 @@
     2. [Sententiae Antiquae](#5.2)
     3. [His Only Guest was a Real Boar!](#5.3)
     4. [Thermopylae: A Soldier's Humour](#5.4)
-
+6.  [Chapter 6](#chapter6)
+    1. [Practice and Review](#6.1)
+    2. [Sententiae Antiquae](#6.2)
+    3. [I do not love thee, Doctor Fell](#6.3)
+    4. [The Historian Livy Laments the Decline of Roman Morals](#6.4)
 
 ## CHAPTER 1 <a name = "chapter1"></a>
 
@@ -66,7 +70,7 @@
 
 ### Sententiae antiquae <a name = "2.1"></a>
 1. <details> <summary> Salve, O patria! </summary> <pre> O motherland, hello! </pre> </details>
-2. <details> <summary> Fama et sententia volant. </summary> <pre> Fame and sentiment move quickly. </pre> </details>
+2. <details> <summary> Fama et sententia volant. </summary> <pre> Rumour and thought move quickly. </pre> </details>
 3. <details> <summary> Da veniam pullae, amobe te. </summary> <pre> Please, you must give a favour/pardon to the girl. </pre> </details>
 4. <details> <summary> Clementia tua multas vitas servat. </summary> <pre> Clemency saves your many lives. </pre> </details>
 5. <details> <summary> Multam pecuniam deportat. </summary> <pre> It carries away much coin. </pre> </details>
@@ -106,13 +110,13 @@
 1. <details> <summary> Fillium nautae Romani in agris videmus.  </summary> <pre> We see the Roman sailor's son in the fields. </pre> </details>
 2. <details> <summary> Pueri puellas hodie vocant </summary> <pre> Today, the boys summon the girls. </pre> </details>
 3. <details> <summary> Sepientiam amicarum, O mea filia semper laudat. </summary> <pre> O my daughter always praises the wisdom of friends. </pre> </details>
-4. <details> <summary> Multi viri et feminae philosophiam antiquam conservant. </summary> <pre> Many men and women conserve the old ways. </pre> </details>
+4. <details> <summary> Multi viri et feminae philosophiam antiquam conservant. </summary> <pre> Many men and women conserve the old way. </pre> </details>
 5. <details> <summary> Si irae valet, O mi filli, saepe erramus et peonas damus.  </summary> <pre> If anger strengthens, O my sons, often we err and pay the penalty. </pre> </details>
 6. <details> <summary> Fortuna viros magnos amat. </summary> <pre> Fortune loves great men. </pre> </details>
 7. <details> <summary> Agricola filiabus pecuniam dat. </summary> <pre> The farmer gives money to the daughters. </pre> </details>
-8. <details> <summary> Without a few friends life is not strong. </summary> <pre> Vita sine pauci amici non valent. </pre> </details>
+8. <details> <summary> Without a few friends life is not strong. </summary> <pre> Vita sine paucis amicis non valent. </pre> </details>
 9. <details> <summary> Today, your have much fame in your nation. </summary> <pre> In tua patria multiam famam hodie habes. </pre> </details>
-10. <details> <summary> We see great fortune in your daugthers' lives, my friend. </summary> <pre> Mea amice, fortunam magnam in vitis fillarum videmus. </pre> </details>
+10. <details> <summary> We see great fortune in your daugthers' lives, my friend. </summary> <pre> Mea amice, fortunam magnam in vitis tuarum fillarum videmus. </pre> </details>
 11. <details> <summary> He always my daughters and sons roses. </summary> <pre> Semper meis fillabus et fillis rosas dat. </pre> </details>
 
 ### Sententiae Antiquae <a name = "3.2"></a>
@@ -187,41 +191,40 @@
 ## Chapter 5 <a name = "chapter5"></a>
 
 ### Practice and Review <a name = "5.1"></a>
-1. <details> <summary> Officium liberos viros semper vocabat. </summary> <pre> Duty was always calling to the free men. </pre> </details>
+1. <details> <summary> Officium liberos viros semper vocabat. </summary> <pre> Duty always summoned free men. </pre> </details>
 2. <details> <summary> Habebimusne multos viros et feminas mangorum animorum? </summary> <pre> Will we have many men and women of great souls? </pre> </details>
-3. <details> <summary> Pericula belli non sunt parva, sed patria tua te vocabit et agricolae adiuvabunt. </summary> <pre> War's dangers are not small, but your nation will call out to you and the farmers will help.  </pre> </details>
+3. <details> <summary> Pericula belli non sunt parva, sed patria tua te vocabit et agricolae adiuvabunt. </summary> <pre> War's dangers are not small, but your nation will call out to you and the farmers to assist.  </pre> </details>
 4. <details> <summary> Propter culpas malorum patria nostra non valebit. </summary> <pre> Because of the faults of bad people [or things], our nation will not be strong. </pre> </details>
-5. <details> <summary> Mora animos nostros superabat et remedium non habebamus. </summary> <pre> Delay was above our souls, and we didn't have a remedy. </pre> </details>
-6. <details> <summary> Multi in agris heri manebant et Romanos iuvabant. </summary> <pre> Many men were remaining in the fields yesterday and the Roman people were helping.  </pre> </details>
-7. <details> <summary> Pauci veri de cura animi cogitabant. </summary> <pre> Few men were thinking about the care of the soul. </pre> </details>
+5. <details> <summary> Mora animos nostros superabat et remedium non habebamus. </summary> <pre> Delay was above our souls, and we weren't possessing a remedy. </pre> </details>
+6. <details> <summary> Multi in agris heri manebant et Romanos iuvabant. </summary> <pre> Many men were remaining in the fields yesterday and aided the Roman people.  </pre> </details>
+7. <details> <summary> Pauci veri de cura animi cogitabant. </summary> <pre> Few men were thinking about the soul's caution [or cure]. </pre> </details>
 8. <details> <summary> Propter iram in culpa estis et cras poenas dabitis. </summary> <pre> Because of the anger you [pl.] are at fault, and tomorrow you [pl.] will pay the penalty. </pre> </details>
 9. <details> <summary> Verum otium non habes, vir stulte! </summary> <pre> You do not have true pleasure, foolish man! </pre> </details>
 10. <details> <summary> Nihil est sine culpa; sumus boni, si paucas habemus. </summary> <pre> Nothing is without fault; we are good men if we have few women. </pre> </details>
 11. <details> <summary> Poeta amicae multas rosas, dona pulchra, et basia dabat. </summary> <pre> The poet was giving many roses, beautiful gifts and kisses to the friend. </pre> </details>
-12. <details> <summary> Will war and destruction always remain in our land?  </summary> <pre>  Semperne remanebit bellum et exitium in nostra patria? </pre> </details>
+12. <details> <summary> Will war and destruction always remain in our land?  </summary> <pre>  Semperne remanebunt bellum et exitium in nostra patria? </pre> </details>
 13. <details> <summary> Does money satisfy the greedy man?  </summary> <pre> Pecuniane avarum virum satit? </pre> </details>
 14. <details> <summary> Therefore, you will save the reputation of our foolish boys.  </summary> <pre> Igitur, famam nostrorum peurorum stultorum servabis. </pre> </details>
 15.  <details> <summary> Money and glory were conquering the soul of a good man. </summary> <pre>  Pecunia et gloria animum viri magni superabatis. </pre> </details>
 
 ### Sententiae Antiquae <a name = "5.2"></a>
 1. <details> <summary> Invidiam populi Romani cras non sustinebis. </summary> <pre> Tomorrow, you will not sustain dislike of the Roman people. </pre> </details>
-2. <details> <summary> Periculumne igitur cras remanebat </summary> <pre> Does the danger from yesterday remain? </pre> </details>
+2. <details> <summary> Periculumne igitur heri remanebat? </summary> <pre> Was the danger therefore remaining yesterday?  </pre> </details>
 3. <details> <summary> Angustus animus pecuniam amat. </summary> <pre> The narrow soul loves money.  </pre>  </details>
 4. <details> <summary> Supera animos et iram tuam. </summary> <pre> Be above souls and your anger. </pre> </details>
 5. <details> <summary> Culpa est mea, O amici! </summary> <pre> The fault is mine, O friends! </pre> </details>
 6. <details> <summary> Da veniam filio et filiabus nostris. </summary> <pre> Give pardon to our son and daughters. </pre> </details>
-7. <details> <summary> Propter adulescentiam, mei fili, mala vitae non videbatis. </summary> <pre> Because of youth, my son was not noticing the evils of life. </pre> </details>
-8. <details> <summary> Amabo te, cura filiam meam. </summary> <pre> Please, take care of my girl. </pre> </details>
+7. <details> <summary> Propter adulescentiam, fili mei, mala vitae non videbatis. </summary> <pre> Because of youth, my sons were not noticing the evils of life. </pre> </details>
+8. <details> <summary> Amabo te, cura filiam meam. </summary> <pre> Please, care for my girl. </pre> </details>
 9. <details> <summary> Vita humana est supplicium.  </summary> <pre> Human life is punishment. </pre> </details>
 10. <details> <summary> Satisne sanus es?  </summary> <pre> Are you sufficiently sane? </pre> </details>
 11. <details> <summary> Si quando satis pecuniae habebo, tum me consilio et philosophiae dabo. </summary> <pre> If ever I have enough money, then I will give myself to wisdom and philosophy. </pre> </details>
 12. <details> <summary> Semper gloria et fama tua manebunt. </summary> <pre> Your glory and fame will always remain. </pre> </details>
-13. <details> <summary> Vir bonus et peritus aspera verba poetarum culpabit. </summary> <pre> Good and skillful men will fault the harsh words of the poet. </pre> </details>
+13. <details> <summary> Vir bonus et peritus aspera verba poetarum culpabit. </summary> <pre> Good and skillful men will fault the harsh words of the poets. </pre> </details>
 
 ### His Only Guest was a Real Boar! <a name = "5.3"></a>
- <details> <summary> Non cenat sine apro noster, Tite, Caecilianus: bellum convivam Caecilianus habet! </summary> <pre> Our Caecilianus does not dine without a boar, Tite: Caecilianus has a beautiful dinner-guest. </pre> </details> 
-
-
+ <details> <summary> Non cenat sine apro noster, Tite, Caecilianus: bellum convivam Caecilianus habet! </summary> <pre> Our Caecilianus does not dine without our boar, Tite: Caecilianus has a beautiful dinner-guest. </pre> </details> 
+ 
  ### Thermopylae: A Soldier's Humour <a name = "5.4"></a>
  <details>
     <summary>
@@ -230,8 +233,59 @@
         Et Leonidas, rex Lacedaemoniorum, exclamat: "Pugnate cum animis, Lacedaemonii; hodie apud inferos fortasse cenabimus!" 
     </summary>
     <pre>
-        "Our army is great," The Persian says, "and you will not see the sky, because of the numerousness  of our arrows!"
+        "Our army is great," The Persian says, "and you will not see the sky, because of the numerousness of our arrows!"
         Then the Spartan responds: "We will therefore fight in the shade!"
         And Leonidas, King of the Spartans, exclaims: Fight with spirits, Spartans; today, we will dine amongst the dead! 
     </pre>
 </details>
+
+## Chapter 6 <a name = "chapter6"></a>
+### Practice and Review <a name = "6.1"></a>
+1. <details> <summary> Oculi nostri non valebant; quare agros bellos videre non poteramus. </summary> <pre> Our eyes were not strong; therefore, we were not able to see the beautiful fields. </pre> </details>
+2. <details><summary> Sine multa pecunia et multis donis tyrannus satiare populum Romanum non poterit. </summary><pre> Without a lot of money et gifts, tyrants will not be able to satisfy the Roman people. </pre></details>
+3. <details><summary> Non poterant, igitur, te de poena amicorum tuorum heri monere. </summary><pre> They were not able to warn you [consequently] about the punishment of your friends yesterday. </pre></details>
+4. <details><summary> Parvus numerus Graecorum cras ibi remanere poterit. </summary><pre> A small number of Greeks will remain here tomorrow. </pre></details>
+5. <details><summary> Magister pueros malos sine mora vocabit. </summary><pre> The teacher will summon, without delay, the naughty [wicked if malus is more severe] boys. </pre></details>
+6. <details><summary> Filiae vestrae de libris magni poetae saepe cogitabant. </summary><pre> Your [pl.] girls often were thinking of the books of a great poet. </pre></details>
+7. <details><summary> Quando satis sapientiae habebimus?  </summary><pre> When will we have sufficient wisdom? </pre></details>
+8. <details><summary> Multi libri antiqui propter sapientiam consiliumque erant magni.  </summary><pre> Many old books were great because of wisom and counsel.  </pre></details>
+9. <details><summary> Gloria bonorum librorum semper manebit. </summary><pre> The glory of good, free men will always remain. </pre></details>
+10. <details><summary> Possuntne pecunia otiumque curas vitae humanae superare? </summary><pre> Is money and pleasure able to be above the care of human life? </pre></details>
+11. <details><summary> Therefore, we cannot always see the real vices of a tyrant.  </summary><pre> Possumus, igitur, verum vitium tyranni non semper videre. </pre></details>
+12. <details><summary> Few free men will be able to tolerate an absolute ruler. </summary><pre> Pauci liberi tyrannum tolere poterunt. </pre></details>
+13. <details><summary> Many Romans used to praise the great books of the ancient Greeks. </summary><pre> Multi Romani libros magnos Graecorum antiquorum laudabant. </pre></details>
+14. <details><summary> Where can glory and fame be perpetual? </summary><pre> Ubi gloriaque fama perpetuum possunt? </pre></details>
+
+### Sententiae Antiquae <a name = "6.2"></a>
+1.  <details> <summary> Dionysius tum erat tyrannus Syracusanorum. </summary> <pre> At that time, Dionysius was tyrant of the Syracusans. </pre> </details>
+2.  <details> <summary> Optasne meam vitam fortunamque gustare? </summary> <pre> Do you wish to taste my life and fortune? </pre> </details>
+3.  <details> <summary> Possumusne, O di, in malis insidiis et magno exito esse salvi? </summary> <pre> Can we, O Gods, be safe [peoples] in evil treachery and great destruction? </pre> </details>
+4.  <details> <summary> Propter curam meam in perpetuo periculo non eritis. </summary> <pre> You will all not be in perpetual danger because of my care. </pre> </details>
+5.  <details> <summary> Propter vitia tua multi te culpant et nihil te in patria tua delectare nunc potest. </summary> <pre> Many men blame you because of your many vices, and now nothing can delight you in your country.  </pre> </details>
+6.  <details> <summary> Fortuna Punici belli secundi varia erat. </summary> <pre> The fortune of the second Punic war was varied. </pre> </details>
+7.  <details> <summary> Patria Romanorum erat plena Graecorum librorum statuarumque pulcharum. </summary> <pre> Rome was plentiful in beautiful Greek books and statues. </pre> </details>
+8.  <details> <summary> Sine dis et daebus in caelo animus non potest sanus esse. </summary> <pre> Without Gods and Goddesses in heaven, the soul is unable to be healthy. </pre> </details>
+9.  <details> <summary> Si animus infirmus est, non poterit bonam fortunam tolerare. </summary> <pre> If the soul is weak, it will be unable to tolerate good fortune. </pre> </details>
+10.  <details> <summary> Ubi leges valent, ibi populus liber potest valere. </summary> <pre> Where laws are strong, here the free people are able to be strong. </pre> </details>
+
+### I do not love thee, Doctor Fell <a name = "6.3"></a>
+<details> <summary>
+    Non amo te, Sabidi, nec possum dicere quare. 
+    Hoc tantum possum dicere: non amo te.
+ </summary> <pre> 
+    I do not love you, Sabidi, and I am unable to say why.
+    This I can only say: I do not love you.
+ </pre> </details>
+
+### The Historian Livy Laments the Decline of Roman Morals <a name = "6.4"></a>
+<details> <summary>
+    Populus Romanus magnos animos et paucas culpas habebat.
+    De officiis nostris cogitabamus et gloriam belli semper laudabamus.
+    Sed nunc multum otium habemus et multu sunt avari. 
+    Nec vitia nostra nec remedia tolerare possumus.
+ </summary> <pre> 
+    The Roman used to have great souls and few faults.
+    We used to think of our duties, and we used to always praise the glory of war.
+    But now, we have many pleasures and now many are avarice people.
+    And we can't tolerate our vices nor remedies. 
+ </pre> </details>

@@ -263,7 +263,7 @@
 4.  <details> <summary> Propter curam meam in perpetuo periculo non eritis. </summary> <pre> You will all not be in perpetual danger because of my care. </pre> </details>
 5.  <details> <summary> Propter vitia tua multi te culpant et nihil te in patria tua delectare nunc potest. </summary> <pre> Many men blame you because of your many vices, and now nothing can delight you in your country.  </pre> </details>
 6.  <details> <summary> Fortuna Punici belli secundi varia erat. </summary> <pre> The fortune of the second Punic war was varied. </pre> </details>
-7.  <details> <summary> Patria Romanorum erat plena Graecorum librorum statuarumque pulcharum. </summary> <pre> Rome was plentiful in beautiful Greek books and statues. </pre> </details>
+7.  <details> <summary> Patria Romanorum erat plena Graecorum librorum statuarumque pulcharum. </summary> <pre> Rome was full of beautiful Greek books and statues. </pre> </details>
 8.  <details> <summary> Sine dis et daebus in caelo animus non potest sanus esse. </summary> <pre> Without Gods and Goddesses in heaven, the soul is unable to be healthy. </pre> </details>
 9.  <details> <summary> Si animus infirmus est, non poterit bonam fortunam tolerare. </summary> <pre> If the soul is weak, it will be unable to tolerate good fortune. </pre> </details>
 10.  <details> <summary> Ubi leges valent, ibi populus liber potest valere. </summary> <pre> Where laws are strong, here the free people are able to be strong. </pre> </details>

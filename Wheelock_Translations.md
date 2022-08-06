@@ -25,8 +25,13 @@
     2. [Sententiae Antiquae](#6.2)
     3. [I do not love thee, Doctor Fell](#6.3)
     4. [The Historian Livy Laments the Decline of Roman Morals](#6.4)
+7.  [Chapter 7](#chapter6)
+    1. [Practice and Review](#7.1)
+    2. [Sententiae Antiquae](#7.2)
+    3. [The Rape of Lucretia](#7.3)
+    4. [Catullus dedicates his Poetry Book](#7.4)
 
-## CHAPTER 1 <a name = "chapter1"></a>
+## Chapter 1: Present Tense <a name = "chapter1"></a>
 
 ### Sententiae <a name = "1.1"></a>
 1. <details> <summary> Labor me vocat. </summary> <pre> Work calls to me. </pre> </details>
@@ -66,7 +71,7 @@
     </pre>
 </details>
 
-## CHAPTER 2 <a name = "chapter2"></a>
+## Chapter 2: First Declension <a name = "chapter2"></a>
 
 ### Sententiae antiquae <a name = "2.1"></a>
 1. <details> <summary> Salve, O patria! </summary> <pre> O motherland, hello! </pre> </details>
@@ -104,7 +109,7 @@
     </pre>
 </details>
 
-## Chapter 3 <a name = "chapter3"></a>
+## Chapter 3: Second Declension Masculine <a name = "chapter3"></a>
 
 ### Practice and Review <a name = "3.1"></a>
 1. <details> <summary> Fillium nautae Romani in agris videmus.  </summary> <pre> We see the Roman sailor's son in the fields. </pre> </details>
@@ -144,37 +149,37 @@
     </pre>
 </details>
 
-## Chapter 4 <a name = "chapter4"></a>
+## Chapter 4: Second Declension Neuter <a name = "chapter4"></a>
 
 ### Practice and Review <a name = "4.1"></a>
-1. <details> <summary> Otium est bonum, sed otium multorum est parvum. </summary> <pre> Pleasure is good, but pleasure of many things is small. </pre> </details>
-2. <details> <summary> Bella est mala et multa pericula habent. </summary> <pre> Wars are bad and they have many dangers. </pre> </details>
+1. <details> <summary> Otium est bonum, sed otium multorum est parvum. </summary> <pre> Leisure is good, but the leisure of many things is small. </pre> </details>
+2. <details> <summary> Bella est mala et multa pericula habent. </summary> <pre> Wars are bad and have many dangers. </pre> </details>
 3. <details> <summary> Officium nautam de otium hodie vocat. </summary> <pre> Today, duty calls the sailor away from leisure. </pre> </details>
 4. <details> <summary> Pauci viri avari multas formas perciulorum in pecunia vident. </summary> <pre> Few avarice men notice the many forms of danger in money. </pre> </details>
-5. <details> <summary> Si multam pecuniam habent, saepe non estis sine curis. </summary> <pre> If you [all] have a lot of money, often you all aren't without cares. </pre> </details>
-6. <details> <summary> Puellae magistram de consilio malo sine mora monent. </summary> <pre> The girls advise the [female] teacher, without delay, about the bad judgement. </pre> </details>
+5. <details> <summary> Si multam pecuniam habetis, saepe non estis sine curis. </summary> <pre> If you all have a lot of money, often you aren't without cares. </pre> </details>
+6. <details> <summary> Puellae magistram de consilio malo sine mora monent. </summary> <pre> The girls advise, without delay, the [female] teacher about the bad judgement. </pre> </details>
 7. <details> <summary> O poeta magna, amici veri sumus; me iuva, amobe te! </summary> <pre> O great poet, we are true friends; aid me, please! </pre> </details>
-8. <details> <summary> Femina agricolae, portam videt. </summary> <pre> Wife of the farmer, see the gate. </pre> </details>
-9. <details> <summary> You are in great danger. </summary> <pre> In perciuli magni es. </pre> </details>
+8. <details> <summary> Femina agricolae portam videt. </summary> <pre> Wife of the farmer sees the gate. </pre> </details>
+9. <details> <summary> You are in great danger. </summary> <pre> In periculo magno es. </pre> </details>
 10. <details> <summary> My son's opinions are often foolish. </summary> <pre> Consilia mei filii seape stulta sunt. </pre> </details>
-11. <details> <summary> Girls and boys of great men and women are not always great. </summary> <pre> Fillae et filii virorum magnorum et feminarum magnarum non semper sunt magnos. </pre> </details>
-12. <details> <summary> Without wisdom, the sailors' great fortune is nothing, and they are paying they penalty. </summary> <pre> Fortuna magna nautarum nihil est sine consilio, et poenas sunt dare. </pre> </details>
+11. <details> <summary> Girls and boys of great men and women are not always great. </summary> <pre> Fillae et filii virorum magnorum et feminarum magnarum magni non semper sunt. </pre> </details>
+12. <details> <summary> Without wisdom, the sailors' great fortune is nothing, and they are paying they penalty. </summary> <pre> Fortuna magna nautarum est nihil sine sapientia, et poenas sunt dare. </pre> </details>
 
 ### Sententiae Antiquae <a name = "4.2"></a>
 1. <details> <summary> Fortuna est caeca. </summary> <pre> Fortune is blind. </pre> </details>
-2. <details> <summary> Si pericula sunt vera, infortunatus es. </summary> <pre> If the dangers are true, you are unfortunate. </pre> </details>
+2. <details> <summary> Si pericula sunt vera, infortunatus es. </summary> <pre> If the dangers are real, you are unfortunate. </pre> </details>
 3. <details> <summary> Salve, O amice; vir bonus es. </summary> <pre> Hello friend! you are a good man. </pre> </details>
 4. <details> <summary> Non bella est fama filii tui. </summary> <pre> The fame of your son is not charming. </pre> </details>
 5. <details> <summary> Errare est humanum. </summary> <pre> To err is to be a human. </pre> </details>
-6. <details> <summary> Nihil est omnino beatum. </summary> <pre> Nothing is wholly a happy thing. </pre> </details>
+6. <details> <summary> Nihil est omnino beatum. </summary> <pre> Nothing is wholly happy. </pre> </details>
 7. <details> <summary> Remedium irae est mora. </summary> <pre> The remedy of anger is delay. </pre> </details>
-8. <details> <summary> Bonus Daphnis, amicus meus, otium et vitam agricolae amat. </summary> <pre> Good Daphnis, my friend, pleasure and the life of the farmer it likes. </pre> </details>
-9. <details> <summary> Magistri parvis pueris crustula et dona saepe dant. </summary> <pre> The teachers often give gifts and cookies to the small boys. </pre> </details>
-10. <details> <summary> Amicam meam magis quam oculos meos amo. </summary> <pre> I love my friends more than my eyes. </pre> </details>
-11. <details> <summary> Salve, mea bella puella - da mihi multa basia, amobe te! </summary> <pre> Hello, my beautiful girl - you must give to me many kisses, please! </pre> </details>
+8. <details> <summary> Bonus Daphnis, amicus meus, otium et vitam agricolae amat. </summary> <pre> Good Daphnis, my friend, likes leisure and and the life of the farmer. </pre> </details>
+9. <details> <summary> Magistri parvis pueris crustula et dona saepe dant. </summary> <pre> The teachers often give gifts and cookies to the little boys. </pre> </details>
+10. <details> <summary> Amicam meam magis quam oculos meos amo. </summary> <pre> I love my friend more than my eyes. </pre> </details>
+11. <details> <summary> Salve, mea bella puella - da mihi multa basia, amobe te! </summary> <pre> Hello, my beautiful girl - give me many kisses, please! </pre> </details>
 12. <details> <summary> Infinitus numerus stultorum est. </summary> <pre> Infinity is a number of foolishness. </pre> </details>
 13. <details> <summary> Officium me vocat. </summary> <pre> Duty calls to me. </pre> </details>
-14. <details> <summary> Mali sunt in nostro numero et de exito bonorum virorum cogitant. </summary> <pre> Bad men amongst us think of the destruction of good men. You all must aid good men; conserve the Roman people. </pre> </details>
+14. <details> <summary> Mali sunt in nostro numero et de exito bonorum virorum cogitant. </summary> <pre> Bad men amongst us think of the destruction of good men. You must all help good men; save the Roman people. </pre> </details>
 
 ### The Rarity of Friendship <a name = "4.3"></a>
 <details>
@@ -188,7 +193,7 @@
     </pre>
 </details>
 
-## Chapter 5 <a name = "chapter5"></a>
+## Chapter 5: Imperfect Tenses <a name = "chapter5"></a>
 
 ### Practice and Review <a name = "5.1"></a>
 1. <details> <summary> Officium liberos viros semper vocabat. </summary> <pre> Duty always summoned free men. </pre> </details>
@@ -239,7 +244,7 @@
     </pre>
 </details>
 
-## Chapter 6 <a name = "chapter6"></a>
+## Chapter 6: Imperfect Tenses : To Be <a name = "chapter6"></a>
 ### Practice and Review <a name = "6.1"></a>
 1. <details> <summary> Oculi nostri non valebant; quare agros bellos videre non poteramus. </summary> <pre> Our eyes were not strong; therefore, we were not able to see the beautiful fields. </pre> </details>
 2. <details><summary> Sine multa pecunia et multis donis tyrannus satiare populum Romanum non poterit. </summary><pre> Without a lot of money et gifts, tyrants will not be able to satisfy the Roman people. </pre></details>
@@ -289,3 +294,68 @@
     But now, we have many pleasures and now many are avarice people.
     And we can't tolerate our vices nor remedies. 
  </pre> </details>
+
+    
+## Chapter 7 : Third Declension <a name = "chapter7"></a>
+### Practice and Reviews <a name = "7.1"></a>
+
+1. <details><summary> Secundas litteras discipulae heri videbas et de verbis tum cogitabas. </summary> <pre> You saw the student's second epistle yesterday and then you thought about words. </pre> </details>
+2. <details><summary> Feminae sine mora civitatem de insidiis et exitio malo monebunt. </summary> <pre> Women, without delay, will advise the state about treachery and malificent destuction.  </pre> </details>
+3. <details><summary> Rex et Regina igitur cras non audebunt ibi remanere. </summary> <pre> Therefore tomorrow, the king and queen will not help to remain here. </pre> </details>
+4. <details><summary> Mores Graecorum non erant sine culpis vitisque. </summary> <pre> The Greek morals were not without faults and vice. </pre> </details>
+5. <details><summary> Quando homines satis virtutis habebunt? </summary> <pre> When will men have enough manliness? </pre> </details>
+6. <details><summary> Corpora vestra sunt sana et animi sunt pleni sapientiae. </summary> <pre> Your bodies are healthy and your souls are full of wisdom. </pre> </details>
+7. <details><summary> Propter mores humanos pacem veram non habebimus. </summary> <pre> Because of the human character, we will not have true peace. 
+    (<italics>human character can also be translated to the habits of human</italics>). </pre> </details>
+8. <details><summary> Poteritne civitas pericula temporum nostrorum superare? </summary> <pre> Will the state be able to be above the dangers of our times? </pre> </details>
+9. <details><summary> Post bellum multos libros de pace et remediis belli videbant. </summary> <pre> After the war, they were seeing the many books about peace and the remedies of war. </pre> </details>
+10. <details><summary> Officia sapientiamque oculis animi possumus videre. </summary> <pre> We can see the service and wisdom of the eyes of the soul.   </pre> </details>
+11. <details><summary> Without sound character we cannot have peace. </summary> <pre> Sine moribus sanis pacem habere non possumus. </pre> </details>
+12. <details><summary> Many students used to have small time for Greek literature. </summary> <pre> Multi discipuli parvum temporem litteris Graecoris habebant. </pre> </details>
+13. <details><summary> After bad times true virtue and much labour will help the state. </summary> <pre> Post mala tempora, virtus verus et multus labor civitatem iuvabunt.  </pre> </details>
+14. <details><summary> The daughters of your friends were dining there yesterday. </summary> <pre> Ibi filiae tuorum amicorum heri cenabant. </pre> </details>
+
+### Sententiae Antiquae <a name = "7.2"></a>
+
+1. <details><summary> Homo sum. </summary> <pre> I am human. </pre> </details>
+2. <details><summary> Nihil sub sole novum </summary> <pre> Nothing below the sun is new. </pre> </details>
+3. <details><summary> Carmina nova de adulescentia virginibus puerisque nunc canto. </summary> <pre> Now I sing new songs to the girls and boys about youth. </pre> </details>
+4. <details><summary> Laudas fortunam et mores antiquae plebis. </summary> <pre> You praise the fortune and habits of the old commoner. </pre> </details>
+5. <details><summary> Boni propter amorem virtutis peccare oderunt. </summary> <pre> Good men hate to sin because of their love of virtue. </pre> </details>
+6. <details><summary> Sub principe duro temporibusque malis audes esse bonus. </summary> <pre> You dare to be good close to a harsh prince and wicked times. </pre> </details>
+7. <details><summary> Populus stultus viris indignis honores saepe dat. </summary> <pre> The stupid person often gives honours to unworthy men.  </pre> </details>
+8. <details><summary> Nomina stultorum in parietibus et portis semper videmus. </summary> <pre> We will always see the names of stupid men on walls and gates. </pre> </details>
+9. <details><summary> Otium sine litteris mors est. </summary> <pre> Leisure without literature is death. </pre> </details>
+10. <details><summary> Multae nationes servitutem tolerare possunt; nostra civitas non potest. Praeclara est recuperatio libertatis. </summary> <pre> Many nations can tolerate servitude; our state can not. Remarkable is the recovery of liberty.  </pre> </details>
+11. <details><summary> Nihil sine magno labore vita mortalibus dat. </summary> <pre> Life gives nothing to a mortal without great labour. </pre> </details>
+12. <details><summary> Quomodo in perpetua pace salvi et liberi esse poterimus? </summary> <pre> How shall we be able to be free and safe peoples in perpetual peace? </pre> </details>
+13. <details><summary> Gloria in altissimis Deo et in terra pax hominibus bonae voluntatis. </summary> <pre> Glory in God the Most High, and on Earth peace of good will to men. </pre> </details>
+
+### The Rape of Lucretia <a name = "7.3"></a>
+<details>
+    <summary>
+        Tarquinius Superbus erat rex Romanorum et Sextus Tarquinius erat filius malus tyranni.
+        Sextus Lucretiam, uxorem Collantini, rapuit, et femina bona, propter magnum amorem virtutis, se necavit.
+        Romani antiqui virtutem animosque Lucretiae semper laudabant et Tarquinios culpabant.
+    </summary>
+    <pre>
+        Tarquin the Prideful was king of the Romans and Tarquin the Sixth was the wicked son of that tyrant.
+        Lucretia the Sixth, wife of Collatinus, and a good woman, was raped - and because of a powerful love of virtue, killed herself.
+        The old Romans always praised Lucretia's virtue and soul and Tarquin was blamed.
+    </pre> 
+</details>
+
+### Catullus dedicates his Poetry Book <a name = "7.4"></a>
+<details>
+    <summary>
+        Cornelio, viro magnae sapientiae, dabo pulchrum librum novum.
+        Corneli, mi amice, libros meos semper laudabas, et es magister doctus litterarum!
+        Quare habe novum laborem meum: fama libri (et tua fama) erit perpetua.
+    </summary>
+    <pre>
+        I give a new and beautiful book to you Cornelius, you great and wise man.
+        Cornelius, my friend, you were always praising my books, and you are a learned teacher of literature!
+        Thusly you have my new labour: famous books (and your fame) will be eternal. 
+    </pre> 
+</details>
+

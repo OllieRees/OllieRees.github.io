@@ -177,7 +177,7 @@
 9. <details> <summary> Magistri parvis pueris crustula et dona saepe dant. </summary> <pre> The teachers often give gifts and cookies to the little boys. </pre> </details>
 10. <details> <summary> Amicam meam magis quam oculos meos amo. </summary> <pre> I love my friend more than my eyes. </pre> </details>
 11. <details> <summary> Salve, mea bella puella - da mihi multa basia, amobe te! </summary> <pre> Hello, my beautiful girl - give me many kisses, please! </pre> </details>
-12. <details> <summary> Infinitus numerus stultorum est. </summary> <pre> Infinity is a number of foolishness. </pre> </details>
+12. <details> <summary> Infinitus numerus stultorum est. </summary> <pre> Infinity is a number of fools. </pre> </details>
 13. <details> <summary> Officium me vocat. </summary> <pre> Duty calls to me. </pre> </details>
 14. <details> <summary> Mali sunt in nostro numero et de exito bonorum virorum cogitant. </summary> <pre> Bad men amongst us think of the destruction of good men. You must all help good men; save the Roman people. </pre> </details>
 
@@ -323,14 +323,14 @@
 3. <details><summary> Carmina nova de adulescentia virginibus puerisque nunc canto. </summary> <pre> Now I sing new songs to the girls and boys about youth. </pre> </details>
 4. <details><summary> Laudas fortunam et mores antiquae plebis. </summary> <pre> You praise the fortune and habits of the old commoner. </pre> </details>
 5. <details><summary> Boni propter amorem virtutis peccare oderunt. </summary> <pre> Good men hate to sin because of their love of virtue. </pre> </details>
-6. <details><summary> Sub principe duro temporibusque malis audes esse bonus. </summary> <pre> You dare to be good close to a harsh prince and wicked times. </pre> </details>
-7. <details><summary> Populus stultus viris indignis honores saepe dat. </summary> <pre> The stupid person often gives honours to unworthy men.  </pre> </details>
-8. <details><summary> Nomina stultorum in parietibus et portis semper videmus. </summary> <pre> We will always see the names of stupid men on walls and gates. </pre> </details>
+6. <details><summary> Sub principe duro temporibusque malis audes esse bonus. </summary> <pre> You dare to be good under a harsh prince and evil times. </pre> </details>
+7. <details><summary> Populus stultus viris indignis honores saepe dat. </summary> <pre> A foolish society often gives honours to unworthy men.  </pre> </details>
+8. <details><summary> Nomina stultorum in parietibus et portis semper videmus. </summary> <pre> We will always see the names of fools on walls and gates. </pre> </details>
 9. <details><summary> Otium sine litteris mors est. </summary> <pre> Leisure without literature is death. </pre> </details>
 10. <details><summary> Multae nationes servitutem tolerare possunt; nostra civitas non potest. Praeclara est recuperatio libertatis. </summary> <pre> Many nations can tolerate servitude; our state can not. Remarkable is the recovery of liberty.  </pre> </details>
 11. <details><summary> Nihil sine magno labore vita mortalibus dat. </summary> <pre> Life gives nothing to a mortal without great labour. </pre> </details>
 12. <details><summary> Quomodo in perpetua pace salvi et liberi esse poterimus? </summary> <pre> How shall we be able to be free and safe peoples in perpetual peace? </pre> </details>
-13. <details><summary> Gloria in altissimis Deo et in terra pax hominibus bonae voluntatis. </summary> <pre> Glory in God the Most High, and on Earth peace of good will to men. </pre> </details>
+13. <details><summary> Gloria in altissimis Deo et in terra pax hominibus bonae voluntatis. </summary> <pre> Glory in God the Most High, and on Earth peace of good will towards men. </pre> </details>
 
 ### The Rape of Lucretia <a name = "7.3"></a>
 <details>
@@ -360,3 +360,59 @@
     </pre> 
 </details>
 
+## Chapter 8 : Third Conjugation <a name = "chapter8"></a>
+### Practice and Reviews <a name = "8.1"></a>
+1. <details><summary> Tempora nostra nunc sunt mala; vitia nostra, magna. </summary> <pre> Our times are now bad, thus are vices are great. </pre> </details>
+2. <details><summary> Quare soror mea uxori tuae litteras scribit? </summary> <pre> By what means will my sister will write epistles to your wife? </pre> </details>
+3. <details><summary> Tyrannus populum stultum e terra vestra ducet. </summary> <pre> The tyrant leads the foolish people from your earth. </pre> </details>
+4. <details><summary> Ubi satis rationis animorumque in hominibus erit? </summary> <pre> Where will there be enough judgement and spirit in humans? </pre> </details>
+5. <details><summary> Copia verae virtutis multas culpas superare poterat. </summary> <pre> An abundance of true virtue was above many faults. </pre> </details>
+6. <details><summary> In libera civitate adulescentiam agebamus. </summary> <pre> We were leading the youth in a free state. </pre> </details>
+7. <details><summary> Regem malum tolerare numquam debemus. </summary> <pre> We must never tolerate an evil king. </pre> </details>
+8. <details><summary> Post parvam moram multa verba de insidiis scriptorum stultorum scribemus. </summary> <pre> After a small delay, we shall write many words about the plots of foolish writers. </pre> </details>
+9. <details><summary> The body will remain there under ground. </summary> <pre> Sub terra, corpus manebit ibi. </pre> </details>
+10. <details><summary> Write many things about the glory of our state.  </summary> <pre> Scribe/Scribite multa de gloria nostorum civitatis. </pre> </details>
+11. <details><summary> Does reason always lead your peoples' Queen to virtue? </summary> <pre> Ratio reginam vestram semper ducit virtuti. </pre> </details>
+12. <details>
+    <summary> 
+        We shall always see many Greek names there.
+    </summary> 
+    <pre>
+        Ibi, multa nomina Graeca [Graecorum] semper vidibimus.
+        N.B. Graeca is the adjective and Graeocrum refers to Greek peoples. I'm not sure which one is better due to English's ambiguity. 
+    </pre>
+</details>
+
+### Sententiae Antiquae <a name = "8.2"></a>
+1. <details><summary> Frater meus vitam in otio semper aget. </summary> <pre> My brother spends always spends life in leisure. </pre> </details>
+2. <details><summary> Age, age! Iuva me! Duc me ad secundum filium meum. </summary> <pre> Come, come! Help me! Guide me towards my favourite [or second] son. </pre> </details>
+3. <details><summary> O amici, libertatem perdimus. </summary> <pre> Friends, we destroy liberty!  </pre> </details>
+4. <details><summary> Nova pericula populo Romano exponam sine mora. </summary> <pre> Without delay, I shall set forth new dangers upon the Roman. </pre> </details>
+5. <details><summary> Numquam periculum sine periculo vincemus. </summary> <pre> We shall never conquer risk without risk. [periculum can mean many things: danger, peril, risk, etc.] </pre> </details>
+6. <details><summary> Ex meis erroribus hominibus rectum iter demonstrare possum. </summary> <pre> We can demonstrate the right way from my human errors. </pre> </details>
+7. <details><summary> Catullus Marco Tullio Ciceroni magnas gratias agit. </summary> <pre> Catallus gives great thanks to Cicero. </pre> </details>
+8. <details><summary> Eximia forma virgins oculos hominum covertit. </summary> <pre> The extraordinary form of a maiden attracts a man's eyes. </pre> </details>
+9. <details><summary> Agamemnon magnas copias e terra Graeca ad Troiam ducet, ubi multos viros necabit. </summary> <pre> Agamemnon leads troops from Greece against Troy, where many men will be killed. </pre> </details>
+10. <details><summary> Amor laudis homines trahit. </summary> <pre> Love attracts men of fame. </pre> </details>
+11. <details><summary> Auctores pacis Caesar conservabit. </summary> <pre> Authors of peace [in times of peace] will save Caesar [reputation]. </pre> </details>
+12. <details><summary> Inter multas curas laboresque carmina scribere non possum. </summary> <pre> We can't write songs amongst many anxieties and hardships. </pre> </details>
+13. <details><summary> Dum in magna urbe declamas, mi amice, scriptorem Troiani belli in otio relego. </summary> <pre> My friend, whilst in the large city, you declaim that I - in leisure - reread the author of the Trojan war.  </pre> </details>
+14. <details><summary> Non vitae, sed scholae, discimus. </summary> <pre> We learn not [for] life, but [for] school. </pre> </details>
+15. <details><summary> Homines, dum docent, discunt. </summary> <pre> Humans learn whilst they teach. </pre> </details>
+16. <details><summary> Ratio me ducet, non fortuna. </summary> <pre> Reason shall lead me, not fortune.  </pre> </details>
+
+### Cicero on the Ethics of Waging War <a name="8.3"></a>
+<details>
+    <summary>
+        Civitas bellum sine causa bona aut propter iram gerere non debet.
+        Si fortunas et agros vitasque populi nostri sine bello defendere poterimus, tum pacem conservare debebimus; 
+        si, autem, non poterimus esse salvi et servare patriam libertatemque nostram sine bello, bellum erit necessarium.
+        Semper debemus demonstrare, tamen, magnum officium in bello, et magnam clementiam post victoriam.
+    </summary>
+    <pre>
+        The state must not conduct war without good cause, nor because of anger. 
+        If we will be able to defend the fortunes, fields and lives of our people without war, then we shall ought to conserve peace.
+        If, however, we will be unable to be safe and protect our nation and liberty without war, then war will be necessary.
+        Nevertheless, we must always demonstrate great duty in war, and great clemency after victory.
+    </pre>
+</details>

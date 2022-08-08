@@ -447,7 +447,7 @@
 2. <details><summary> Hic illiam virginem in matrimonium ducet. </summary> <pre> This man guides that maiden in marriage. (This man marries that girl)  </pre> </details>
 3. <details><summary> Huic consilio palmam do. </summary> <pre> I give a palm branch to this council. </pre> </details>
 4. <details><summary> Virtutem enim illius viri amamus. </summary> <pre> Truly, we love the virtue of that man. </pre> </details>
-5. <details><summary> Solus hunc iuvare potes. </summary> <pre> Only you can help this man OR You can help only this man. </pre> </details>
+5. <details><summary> Solus hunc iuvare potes. </summary> <pre> Only you can help this man. </pre> </details>
 6. <details><summary> Poena istius unius hunc morbum civitas relevabit sed periculum semper remanebit. </summary> <pre> The punishment of that one thing will diminish this disease of the state, but the danger will always remain. </pre> </details>
 7. <details><summary> Hi enim de exito huius civitatis et totius orbis terrarum cogitant. </summary> <pre> Truly, these men think of the destruction of this state and of the whole world. </pre> </details>
 8. <details><summary> Est nullus locus utri homini in hac terra. </summary> <pre>  There is no place on this land for either person. </pre> </details>

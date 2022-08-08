@@ -467,7 +467,7 @@
     <pre>
         Africanus has millions, yet he hunts for legacies.
         Fortune gives too much to many men, and satifies none.
-        If you wish to devote yourself to philosophy and the soul, this eagerness is not strong without frugality.
+        If you wish to devote yourself to philosophy and the soul, this eagerness is not able to be strong without frugality.
         This frugality is a voluntary poverty.
         Therefore, take away these excuses of yours:
         "Not while I have enough money. If ever I shall have enough of this, then I will give myself wholly to philosophy."

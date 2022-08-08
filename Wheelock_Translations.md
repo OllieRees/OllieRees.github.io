@@ -30,7 +30,14 @@
     2. [Sententiae Antiquae](#7.2)
     3. [The Rape of Lucretia](#7.3)
     4. [Catullus dedicates his Poetry Book](#7.4)
-
+8. [Chapter 8](#chapter8)
+    1. [Practice and Review](#8.1)
+    2. [Sententiae Antiquae](#8.2)
+    3. [Cicero on the Ethics of Waging War](#8.3)
+9. [Chapter 9](#chapter9)
+    1. [Practice and Review](#9.1)
+    2. [Sententiae Antiquae](#9.2)
+    3. [When I have ... Enough!](#9.3)
 ## Chapter 1: Present Tense <a name = "chapter1"></a>
 
 ### Sententiae <a name = "1.1"></a>
@@ -301,7 +308,7 @@
 ### Practice and Reviews <a name = "7.1"></a>
 
 1. <details><summary> Secundas litteras discipulae heri videbas et de verbis tum cogitabas. </summary> <pre> You saw the student's second epistle yesterday and then you thought about words. </pre> </details>
-2. <details><summary> Feminae sine mora civitatem de insidiis et exitio malo monebunt. </summary> <pre> Women, without delay, will advise the state about treachery and malificent destuction.  </pre> </details>
+2. <details><summary> Feminae sine mora civitatem de insidiis et exitio malo monebunt. </summary> <pre> Women, without delay, will advise the citizenry about treachery and malificent destuction.  </pre> </details>
 3. <details><summary> Rex et Regina igitur cras non audebunt ibi remanere. </summary> <pre> Therefore tomorrow, the king and queen will not help to remain here. </pre> </details>
 4. <details><summary> Mores Graecorum non erant sine culpis vitisque. </summary> <pre> The Greek morals were not without faults and vice. </pre> </details>
 5. <details><summary> Quando homines satis virtutis habebunt? </summary> <pre> When will men have enough manliness? </pre> </details>
@@ -416,3 +423,54 @@
         Nevertheless, we must always demonstrate great duty in war, and great clemency after victory.
     </pre>
 </details>
+
+## Chapter 9: Ille, Hic, and UNUS NAUTA <a name = "chapter9"></a>
+
+### Practice and Review <a name = "9.1"></a>
+1. <details><summary> Hic totus liber hitteras Romanas semper laudat. </summary> <pre> This whole book always lauds Roman literature. </pre> </details>
+2. <details><summary> Hi igitur illis deabus heri gratias agebant. </summary> <pre> Yesterday, these people gave thanks to those Goddesses.  </pre> </details>
+3. <details><summary> Illud de vitiis istius reginae nunc scribam, et ista poenas dabit. </summary> <pre> Now, I will write [that thing] about that queen's vices, and such will pay the penalty. </pre> </details>
+4. <details><summary> Neuter alteri plenam copiam pecuniae tum dabit. </summary> <pre> Neither man will then give a full abundance of money to the other. </pre> </details>
+5. <details><summary> Potestne laus ullius terrae esse perpetua? </summary> <pre> Can eternal praise exist on any earth? </pre> </details>
+6. <details><summary> Labor unius numquam poterit has copias vincere. </summary> <pre> The work of one thing shall never be able to conquer these soldiers. </pre> </details>
+7. <details><summary> Mores istius scriptoris erant nimis mali. </summary> <pre> The morals of that writer were too evil. </pre> </details>
+8. <details><summary> Nulli magistri, tamen, sub isto vera docere audebant. </summary> <pre> Nevertheless, none of the teachers were helping to teach true things below such thing. </pre> </details>
+9. <details><summary> Valebitne pax in patria nostra post hanc victoriam? </summary> <pre> Shall peace be strong in our country after this victory? </pre> </details>
+10. <details><summary> Dum illi ibi remanent, alii nihil agunt, alii discunt. </summary> <pre> Whilst these men remain here, other men do nothing, and other men learn.  </pre> </details>
+11. <details><summary> Cicero was writing about the glory of the other man and his wife. </summary> <pre> Cicero illud de gloria alterius viri et istius uxoris scribebam. </pre> </details>
+12. <details><summary> The whole state was thanking this man's brother alone. </summary> <pre> Tota civitas soli fratri huis viri gratias aget. </pre> </details>
+13. <details><summary> On account of that courage of yours those men will lead no troops into these places tomorrow. </summary> <pre> Propter istum virtutem illi nullas copias cras ducent in haec loca. </pre> </details>
+14. <details><summary> Will either book be able to overcome the faults of these times? </summary> <pre> Poteritne uter liber vitia horum temporum vincere? </pre> </details>
+
+### Sententiae Antiquae <a name = "9.2"></a>
+1. <details><summary> Ubi illas nunc videre possum? </summary> <pre> Where can we now see those women? </pre> </details>
+2. <details><summary> Hic illiam virginem in matrimonium ducet. </summary> <pre> This man guides that maiden in marriage. (This man marries that girl)  </pre> </details>
+3. <details><summary> Huic consilio palmam do. </summary> <pre> I give a palm branch to this council. </pre> </details>
+4. <details><summary> Virtutem enim illius viri amamus. </summary> <pre> Truly, we love the virtue of that man. </pre> </details>
+5. <details><summary> Solus hunc iuvare potes. </summary> <pre> Only you can help this man. </pre> </details>
+6. <details><summary> Poena istius unius hunc morbum civitas relevabit sed periculum semper remanebit. </summary> <pre> The punishment of that one thing will diminish this disease of the state, but the danger will always remain. </pre> </details>
+7. <details><summary> Hi enim de exito huius civitatis et totius orbis terrarum cogitant. </summary> <pre> Truly, these men think of the destruction of this state and of the whole world. </pre> </details>
+8. <details><summary> Est nullus locus utri homini in hac terra. </summary> <pre>  There is no place on this land for either person. </pre> </details>
+9. <details><summary> Non solum eventus hoc docet - iste est magister stultorum! - sed etiam ratio. </summary> <pre> Not only does the outcome teach this - the outcome is a teacher of fools! - but it also teaches reason. </pre> </details>
+
+### When I have... Enough! <a name = "9.3"></a>
+<details>
+    <summary>
+        Habet Africanus miliens, tamen captat.
+        Fortuna multis dat nimis, satis nulli. 
+        Si vis studere philosophiae animoque, hoc studium non potest valere sine frugalitate.
+        Haec frugalitas est paupertas voluntaria. 
+        Tolle, igitur, istas excusationes: 
+        "Nondum satis pecuniae habeo. Si quando illud 'satis' habebo, tum me totum philosophiae dabo."
+        Incipe nunc philosophiae, non pecuniae, studere.
+    </summary> 
+    <pre>
+        Africanus has millions, yet he hunts for legacies.
+        Fortune gives too much to many men, and satifies none.
+        If you wish to devote yourself to philosophy and the soul, this eagerness is not strong without frugality.
+        This frugality is a voluntary poverty.
+        Therefore, take away these excuses of yours:
+        "Not while I have enough money. If ever I shall have enough of this, then I will give myself wholly to philosophy."
+        Begin now to study philosophy, not money. 
+    </pre> 
+    </details>

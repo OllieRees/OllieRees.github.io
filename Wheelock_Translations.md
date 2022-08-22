@@ -348,7 +348,7 @@
     </summary>
     <pre>
         Tarquin the Prideful was king of the Romans and Tarquin the Sixth was the wicked son of that tyrant.
-        Lucretia the Sixth, wife of Collatinus, and a good woman, was raped - and because of a powerful love of virtue, killed herself.
+        Tarquin the Sixth raped Lucretia the Sixth, wife of Collatinus, and a good woman - and because of a powerful love of virtue, killed herself.
         The old Romans always praised Lucretia's virtue and soul and Tarquin was blamed.
     </pre> 
 </details>
@@ -473,4 +473,56 @@
         "Not while I have enough money. If ever I shall have enough of this, then I will give myself wholly to philosophy."
         Begin now to study philosophy, not money. 
     </pre> 
-    </details>
+</details>
+
+## Chapter 10: Fourth Conjugation <a name = "chapter10"></a>
+
+### Practice and Review <a name = "10.1"></a>
+1. <details><summary> Quid discipulae hodie discere debent? </summary> <pre> What must teachers teach today?  </pre> </details>
+2. <details><summary> Fratres nihil cum ratione heri gerebant. </summary> <pre>  Brothers were holding nothing with reason. </pre> </details>
+3. <details><summary> Ille magnam virtutem laboris et studii docere saepe audet. </summary> <pre> He often will dare to teach the great virtue of work and study.  </pre> </details>
+4. <details><summary> Hic de senectute scribebat; ille, de amore; et alius, de libertate. </summary> <pre> This man was writing about old age, that man was writing about love; and another was writing about liberty.   </pre> </details>
+5. <details><summary> Ex libris unius viri naturam harum insidiarum demonstrabimus. </summary> <pre> From books of one man we will demonstrate the nature of these plots. </pre> </details>
+6. <details><summary> Isti soli victoriam nimis amant; neuter de pace cogitat. </summary> <pre> Only those men love victory excessively; neither they think of peace. </pre> </details>
+7. <details><summary> Ubi civitas ullos viros magnae sapientiae audiet? </summary> <pre> Where will a state hear any men of great wisdom? </pre> </details>
+8. <details><summary> Ex illis terris in hunc locum cum amicis vestris venite. </summary> <pre> From those fears, come all into this place with your friends. </pre> </details>
+9. <details><summary> Post paucas horas sororem illius invenire poteramus. </summary> <pre> After a few hours, we were able to find that (wo)man's sister. </pre> </details>
+10. <details><summary> Copiae vestrae utrum virum ibi numquam capient. </summary> <pre> Your troops will never take either man here. </pre> </details>
+11. <details><summary> Alter Graecus remedium huius morbi inveniet. </summary> <pre> The other Greek will find the remedy of this illness. </pre> </details>
+12. <details><summary> Carmina illius scriptoris sunt plena non solum veritatis sed etiam virtutis. </summary> <pre> The charms of that writer are abundant, not only in truth but also in virtuousity.  </pre> </details>
+13. <details><summary> We shall then come to your land without any friends. </summary> <pre> In tuam patriam sine ullis amicis tum veniemus. </pre> </details>
+14. <details><summary> While he was living, nevertheless, we were able to have no peace. </summary> <pre> Dum vivebat, tamen, nullam pacem habere poteramus. </pre> </details>
+15. <details><summary> The whole state now shuns and will always shun these vices. </summary> <pre> Tota civitas nunc fugit et haec vitia semper fugiet. </pre> </details>
+16. <details><summary> He will, therefore, thank the queen and the whole people. </summary> <pre> Reginam et totum populum, igitur, gratias aget. </pre> </details>
+### Sententiae Antiquae <a name = "10.2"></a>
+1. <details><summary> Cupiditatem pecuniae gloriaeque fugite. </summary> <pre> All - avoid the desire of money and wealth. </pre> </details>
+2. <details><summary> Officium meum faciam. </summary> <pre> I will do my duty. </pre> </details>
+3. <details><summary> Fama tua et vita filiae tuae in periculum cras venient. </summary> <pre> Your fame and the life of your daugter will come into danger tomorrow. </pre> </details>
+4. <details><summary> Vita non est vivere sed valere. </summary> <pre> Life is not about living but being strong.  </pre> </details>
+5. <details><summary> Semper magno cum timore incipio dicere. </summary> <pre> I always begin to talk, with great fear. </pre> </details>
+6. <details><summary> Si me duces, Musa, coronam magna cum laude capiam. </summary> <pre> If you will lead me, Muse, I will sieze the crown with great praise. </pre> </details>
+7. <details><summary> Vive memor mortis; fugit hora. </summary> <pre> Live mindful of death; time flees.  </pre> </details>
+8. <details><summary> Rapite, amici, occasionem de hora. </summary> <pre> Sieze, friend, the opportunity of the hour. </pre> </details>
+9. <details><summary> Pauci veniunt ad senectutem. </summary> <pre> Few men will come into old age. </pre> </details>
+10. <details><summary> Sed fugit, interea, fugit tempus. </summary> <pre> But it flees, meanwhile, time flees. </pre> </details>
+11. <details><summary> Fata viam invenient. </summary> <pre> The fates find a way. </pre> </details>
+12. <details><summary> Bonum virum natura, non ordo, facit. </summary> <pre> Nature, not rank, makes a good man. </pre> </details>
+13. <details><summary> Obsequium parit amicos; veritas parit odium.  </summary> <pre> Compliance produces friends; truth produces hate. </pre> </details>
+
+### The Incomparable Value of Friendship <a name = "10.3"></a>
+<details>
+    <summary>
+        Nihil cum amicitia possum comparare; di hominibus nihil melius dant.
+        Pecuniam alii malunt; alii, corpora sana; alii, famam gloriamque; 
+        alii voluptates - sed hi viri nimium errant, quoniam illa sunt incerta et ex fortuna veniunt, non ex sapientia.
+        Amicitia enim ex sapientia et amore et moribus bonis et virtute venit; sine virtute amicitia non potest esse.
+        Si nullos amicos habes, habes vitam tyranni; si invenies amicum verum, vita tua erit beata.
+    </summary>
+    <pre>
+        I can compare nothing with friendship; The Gods of Men give nothing better.
+        Some men prefer money; others prefer a healthy body; others fame and glory; 
+        others pleasures - but these men were excessive, since these things are uncertain and they come from fortune, not from wisdom.
+        Truly, friendship comes from wisdom and love and good illnesses and virtue; friendship cannot exist without virtue. 
+        If you have no friends, you have the life of a tyrant; si you find a true friend, your life will be blessed.
+    </pre>
+</details>
